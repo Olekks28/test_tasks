@@ -1,4 +1,4 @@
-#Pinata Burst Problem
+# Pinata Burst Problem
 
 ## Description
 This program uses @lru_cache to store subproblem results and speed up calculations.
@@ -15,3 +15,4 @@ pinatas = [x for x in map(int, raw.strip().split()) if x != 0]
 
 ## Algorithmic complexity
 O(n^3), where n is the number of pinatas.
+
