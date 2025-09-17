@@ -8,11 +8,14 @@ Enter the pinatas array as integers separated by spaces.
 
 **Note:** If the array contains many zeros, replace
 
-pinatas = list(map(int, raw.strip().split()))
+```python
+pinatas = list(map(int, raw.strip().split())) ```
 with
-pinatas = [x for x in map(int, raw.strip().split()) if x != 0]
-
+```python
+pinatas = [x for x in map(int, raw.strip().split()) if x != 0] 
+```
 
 ## Algorithmic complexity
 O(n^3), where n is the number of pinatas.
+
 
