@@ -7,7 +7,7 @@ Each file must start with a header line:
 ```csv
 user_id,product_id,timestamp
 ```
-followed by the data rows.
+
 If necessary, the names of the input files can be changed directly in the code (marked with a comment).
 
 
@@ -17,5 +17,6 @@ user_id,product_id,timestamp
 1,101,2025-09-30 12:01:00
 20,11,2025-09-30 12:41:00
 ```
+
 
 
