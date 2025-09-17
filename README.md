@@ -14,9 +14,10 @@ To install it, run bash-command:
 pip install requests
 
 
-### Input format
+## Input format
 Arrays are provided as space-separated numbers (without commas) in Task#7 and Task#8.
 
-### CSV files
+## CSV files
 
 Examples of CSV files for Task #8 are located in the task’s folder.
+
