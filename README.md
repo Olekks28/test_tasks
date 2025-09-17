@@ -12,7 +12,7 @@ To install it, run bash-command:
 
 ```bash
 pip install requests
-
+```
 
 ## Input format
 Arrays are provided as space-separated numbers (without commas) in Task#7 and Task#8.
@@ -20,4 +20,5 @@ Arrays are provided as space-separated numbers (without commas) in Task#7 and Ta
 ## CSV files
 
 Examples of CSV files for Task #8 are located in the task’s folder.
+
 
